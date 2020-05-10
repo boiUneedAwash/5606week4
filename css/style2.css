@@ -1,0 +1,12 @@
+#demo{
+    width: 100px;
+    height: 100px;
+    background-color: crimson;
+}
+
+#forslide{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    display: none;
+}
