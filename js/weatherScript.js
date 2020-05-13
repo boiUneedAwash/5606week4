@@ -1,4 +1,6 @@
 $(document).ready(function () {
+    $("#submitBtn")
+
 
     $.ajax({
         type: 'GET',
